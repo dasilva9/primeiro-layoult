@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+}
+
+.post-container {
+  background:#fffafa;
+  margin: 0px auto 0px auto;
+  width: 70%;
+  height: 70%;
+}
+
+.date {
+  color:#02a3a3;
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  font-family: Montserrat;
+}
+
+.post{
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.post-container div.post-container{
+  width: 90%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: Montserrat;
+}
+
+.post{
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.post-container div.post-container{
+  width: 90%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
